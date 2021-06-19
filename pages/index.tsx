@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className="">
         <h1 className="">
-          Star Wars in <a href="https://nextjs.org">Next.js!</a>
+          Star Wars in <a href="https://nextjs.org">Next.typescript!!</a>
         </h1>
       </main>
     </div>
